@@ -1,0 +1,3 @@
+D:/Project/C++/Clion/2021_12_13/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/C++/Clion/2021_12_13/cmake-build-debug/CMakeFiles/opencv_work.dir
+D:/Project/C++/Clion/2021_12_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
