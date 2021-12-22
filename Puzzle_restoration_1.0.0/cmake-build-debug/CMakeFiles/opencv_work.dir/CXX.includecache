@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C++/CLion/Puzzle_restoration_1.0.0/main.cpp
+opencv2/opencv.hpp
+-
+opencv2/core/core.hpp
+D:/Project/C++/CLion/Puzzle_restoration_1.0.0/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+D:/Project/C++/CLion/Puzzle_restoration_1.0.0/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+D:/Project/C++/CLion/Puzzle_restoration_1.0.0/opencv2/highgui/highgui.hpp
+iostream
+-
+string
+-
+cstdlib
+-
+utility
+-
+opencv2/imgproc/types_c.h
+-
+

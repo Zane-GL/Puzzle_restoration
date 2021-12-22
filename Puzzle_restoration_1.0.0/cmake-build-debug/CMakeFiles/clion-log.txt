@@ -1,0 +1,14 @@
+"D:\ProgramFiles\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Project\C++\CLion\Puzzle_restoration_1.0.0
+-- The CXX compiler identification is GNU 10.3.0
+-- Check for working CXX compiler: C:/msys64/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/msys64/mingw64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PkgConfig: C:/msys64/mingw64/bin/pkg-config.exe (found version "1.7.4") 
+-- Checking for module 'opencv4'
+--   Found opencv4, version 4.5.2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Project/C++/CLion/Puzzle_restoration_1.0.0/cmake-build-debug
